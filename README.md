@@ -9,7 +9,7 @@ A beautiful and comprehensive resume analyzer application that checks resume com
 - **Comprehensive Analysis**: Analyzes skills, experience, education, keywords, and formatting
 - **Beautiful Results**: Visual scorecards and detailed recommendations
 - **Responsive Design**: Works perfectly on desktop and mobile devices
-- **Modern UI**: Built with Tailwind CSS and Framer Motion animations
+- **Modern UI**: Built with Tailwind CSS and Framer Motion animation
 
 ## Analysis Categories
 
